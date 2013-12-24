@@ -13,13 +13,28 @@ thinking about how I might leverage the cloud to make my integration tasks easie
 tolerant.
 
 A few weeks ago I stumbled upon this blog [post](https://zapier.com/engineering/introducing-resthooksorg/) about [REST Hooks](http://resthooks.org/).  The concepts behind 
-RESTful hooks are not complicated. But getting the individual components (e.g. authentication, multitenancy,
+RESTful hooks are not complicated. But getting the individual components (e.g. authentication, multi-tenancy,
 subscriptions) working together in a cohesive, robust fashion is a bit more challenging.
 
 ## Goals 
 
-* 
+* Multi-tenant. 
+* Pluggable architecture.
+* Write some Go!
+
+## Components 
+
+* Authentication/Authorization
+* Customer setup
+* Subscriptions
+* Publications
+* Event Processing
+* Misc.
 
 ## Acknowledgments
 
+* [Zapier](https://zapier.com/)
+
 ### TODO's
+
+* 
