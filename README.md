@@ -37,4 +37,5 @@ subscriptions) working together in a cohesive, robust fashion is a bit more chal
 
 ### TODO's
 
-* 
+* Develop a security model.  Buy vs build?
+* Data model
