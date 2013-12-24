@@ -12,9 +12,13 @@ It's no secret that the cloud is transforming (no integrations pun intended) how
 thinking about how I might leverage the cloud to make my integration tasks easier, more scalable and fault
 tolerant.
 
-A few weeks ago I stumbled upon this blog [post](https://zapier.com/engineering/introducing-resthooksorg/) about [REST Hooks](http://resthooks.org/).
+A few weeks ago I stumbled upon this blog [post](https://zapier.com/engineering/introducing-resthooksorg/) about [REST Hooks](http://resthooks.org/).  The concepts behind 
+RESTful hooks are not complicated. But getting the individual components (e.g. authentication, multitenancy,
+subscriptions) working together in a cohesive, robust fashion is a bit more challenging.
 
 ## Goals 
+
+* 
 
 ## Acknowledgments
 
